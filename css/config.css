@@ -1,0 +1,15 @@
+html{margin:0px; padding:0px}
+body{margin:0px; padding:0px}
+ a.buttons {border: 1px solid #ddd; text-align: center; font-weight: bold; text-decoration: none; padding: 4px; margin-right: 4px; color: #333;}
+ a.buttons:hover {background-color: #f9f9f9;}
+ a.buttons:active {background-color: #dddddd;}
+
+ textarea {border: 1px solid #ddd; font-family: "Courier New", Courier, monospace; font-size: 12px;}
+ small {font-size: 10px; color: #999;}
+
+
+ .geral{ font-family: Arial,Helvetica,sans-serif; font-size: 11px; }
+ ul{ margin: 0; padding: 0; }
+ li{ list-style: none outside none; margin-bottom: 10px; }
+ #exemplo{ height: 300px; width: 100%; background-color: #FAFAFA; border: 1px dashed gray; margin-top: 0px; padding: 6px; }
+ #realTime iframe { width: 700px; border: 1px dashed gray; height: 370px; padding: 5px; }
